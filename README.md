@@ -1,4 +1,4 @@
-# Movie Recommendation System
+# Movie Recommendation System (RecSys)
 
 This project is a content-based movie recommendation system built using the MovieLens dataset. The goal is to suggest movies similar to a selected title by analyzing genres and user-generated tags.
 
